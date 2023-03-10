@@ -8,6 +8,7 @@
 - EntityFrameworkCore SqlServer 5.0
 - Swagger
 
-![Backend](https://user-images.githubusercontent.com/97065934/223105645-61999475-fd41-4545-af6f-a01a9989baf8.png)
+![image](https://user-images.githubusercontent.com/97065934/224326300-2f484f4e-7efb-4d0c-a314-f8866b38ca4d.png)
+
 
 API sendo consumida pelo frontend em React: https://github.com/365rafael/clientreact
